@@ -14,6 +14,7 @@ class HomePage extends StatelessWidget {
           child: Text("Welcome to the flutter by codepur"),
         ),
       ),
+      drawer: Drawer(),
     );
   }
 }
